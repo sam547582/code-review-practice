@@ -14,6 +14,10 @@ def nanut(a,b):
     return a/b
 print(nanut(12/4))
 
+def cout(a,b):
+    cout(a,b)
+cout(10, 20) #프린트 함수
+
 #주석 추가
 
 #안녕
